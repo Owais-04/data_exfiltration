@@ -90,9 +90,9 @@ The system is divided into three main components:
 1. Clone the repository
 2. Place datasets inside the `data/` folder
 3. Run notebooks in the following order:
-- `supervised/supervised_model.ipynb`
-- `unsupervised/unsupervised_model.ipynb`
-- `combine/combine_results.ipynb`
+- `supervised_model.ipynb`
+- `unsupervised_model.ipynb`
+- `combine_results.ipynb`
 4. View final predictions and evaluation metrics
 
 ---
